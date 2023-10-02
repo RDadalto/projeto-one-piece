@@ -64,12 +64,3 @@
         max-width: 50px;
     }
 }
-
-@media (max-height: 769px) {
-    .conteudo {
-        top: -20vh;
-    }
-    .botoes{
-        top: -10vh
-    }
-}
